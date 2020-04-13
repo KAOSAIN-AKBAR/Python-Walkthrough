@@ -14,4 +14,4 @@ print(bool(0))
 # type casting string to integer
 print(int("34"))
 
-# print(int("string")) ----> would produce error ; never try this
+# print(int("string")) ----> would produce error ; please donot try this
