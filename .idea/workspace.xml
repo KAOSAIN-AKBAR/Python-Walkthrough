@@ -169,11 +169,11 @@
     </configuration>
     <list>
       <item itemvalue="Python.calendar_Python" />
-      <item itemvalue="Python.list_manipulation_Python" />
-      <item itemvalue="Python.Splitting and Joining" />
       <item itemvalue="Python.Join" />
-      <item itemvalue="Python.tuples_Python" />
+      <item itemvalue="Python.Splitting and Joining" />
+      <item itemvalue="Python.list_manipulation_Python" />
       <item itemvalue="Python.sets_Python" />
+      <item itemvalue="Python.tuples_Python" />
     </list>
     <recent_temporary>
       <list>
@@ -216,30 +216,30 @@
     </state>
     <state x="2552" y="145" key="FileChooserDialogImpl/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1586757787787" />
     <state x="421" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1586756394592" />
-    <state width="1899" height="190" key="GridCell.Tab.0.bottom" timestamp="1586773256104">
+    <state width="1899" height="190" key="GridCell.Tab.0.bottom" timestamp="1586774642314">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="190" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1586773256104" />
-    <state width="1899" height="190" key="GridCell.Tab.0.center" timestamp="1586773256103">
+    <state width="1899" height="190" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1586774642314" />
+    <state width="1899" height="190" key="GridCell.Tab.0.center" timestamp="1586774642313">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="190" key="GridCell.Tab.0.center/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1586773256103" />
-    <state width="1899" height="190" key="GridCell.Tab.0.left" timestamp="1586773256102">
+    <state width="1899" height="190" key="GridCell.Tab.0.center/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1586774642313" />
+    <state width="1899" height="190" key="GridCell.Tab.0.left" timestamp="1586774642313">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="190" key="GridCell.Tab.0.left/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1586773256102" />
-    <state width="1899" height="190" key="GridCell.Tab.0.right" timestamp="1586773256103">
+    <state width="1899" height="190" key="GridCell.Tab.0.left/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1586774642313" />
+    <state width="1899" height="190" key="GridCell.Tab.0.right" timestamp="1586774642313">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="190" key="GridCell.Tab.0.right/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1586773256103" />
+    <state width="1899" height="190" key="GridCell.Tab.0.right/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1586774642313" />
     <state x="2381" y="162" key="SettingsEditor" timestamp="1586757803805">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2381" y="162" key="SettingsEditor/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1586757803805" />
-    <state x="2576" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1586759320552">
+    <state x="2576" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1586774637247">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="2576" y="344" key="com.intellij.ide.util.TipDialog/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1586759320552" />
+    <state x="2576" y="344" key="com.intellij.ide.util.TipDialog/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1586774637247" />
     <state x="2689" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1586757983254">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
